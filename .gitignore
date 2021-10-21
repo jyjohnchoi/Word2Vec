@@ -1,0 +1,5 @@
+dicts/*
+results/*
+log/*
+preprocessed/*
+training-monolingual.tokenized.shuffled/*
